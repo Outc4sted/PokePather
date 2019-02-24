@@ -1,5 +1,6 @@
 {
   "name": "citrine-pokemon-walker",
+  "homepage": "https://outc4sted.github.io/PokePather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
